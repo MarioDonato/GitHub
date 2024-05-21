@@ -1,4 +1,4 @@
-# Teste dos comenado de Markdown
+# Teste dos comandod de Markdown
 ## por favor ignore 
 ### Ola, mundo!
 ---
