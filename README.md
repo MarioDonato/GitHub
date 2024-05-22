@@ -2,7 +2,6 @@
 ## por favor ignore 
 ### Ola, mundo!
 ---
-min 30 
 Aqui esta minha _jornada_ para ___aprender___ a __usar__ ~~Git e GitHub~~.
 
 1. teste
